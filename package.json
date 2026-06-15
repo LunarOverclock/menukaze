@@ -28,15 +28,15 @@
     "@commitlint/config-conventional": "20.5.0",
     "@menukaze/prettier-config": "workspace:*",
     "@menukaze/vitest-config": "workspace:*",
-    "eslint": "10.2.1",
+    "eslint": "10.5.0",
     "husky": "9.1.7",
     "lint-staged": "16.4.0",
-    "prettier": "3.8.3",
-    "prettier-plugin-tailwindcss": "0.7.2",
-    "tsx": "4.21.0",
-    "turbo": "2.9.6",
+    "prettier": "3.8.4",
+    "prettier-plugin-tailwindcss": "0.8.0",
+    "tsx": "4.22.4",
+    "turbo": "2.9.18",
     "typescript": "6.0.3",
-    "vitest": "4.1.4"
+    "vitest": "4.1.8"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
